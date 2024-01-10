@@ -1,0 +1,4 @@
+frame1 - 85-95
+orig - 75-85
+frame2 - 25-35
+frame3 - 
